@@ -16,5 +16,7 @@ public class learnJavaSwing {
         System.out.println("mama mo");
 
         System.out.println("push mo muka mo ahahahahha");
+
+        System.out.println("untog mo ulo mo ");
     }
 }
