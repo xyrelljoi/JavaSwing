@@ -14,5 +14,7 @@ public class learnJavaSwing {
         f.setVisible(true);//making the frame visible
 
         System.out.println("mama mo");
+
+        System.out.println("this is push. pushangin");
     }
 }
