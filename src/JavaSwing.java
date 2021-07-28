@@ -14,7 +14,7 @@ public class JavaSwing {
         btn1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String greeting = "Hello! "+ txtfield1.getText();
+                String greeting = "HATDOG "+ txtfield1.getText();
                 lbl1.setText(greeting);
             }
         });
